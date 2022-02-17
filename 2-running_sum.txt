@@ -1,0 +1,5 @@
+﻿Read number
+Set i to 0;
+while (number>=0)
+     Set i to number + i 
+       read number
