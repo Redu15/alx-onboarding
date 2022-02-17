@@ -1,0 +1,7 @@
+﻿pseudo_code
+
+
+Read i 
+Set x=0;
+For (i = 0;i=x;i++)
+Set x +=(i*i)
